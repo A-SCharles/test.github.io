@@ -1,28 +1,29 @@
 {
-"Me": {
-    "name": "Muhammad" 
-},
-"resume" {
-"work" : [{
-    "company" : "Islamic Relief",
-    "duration":"3 Days",
-    "position": "Administrator"
-},
-{
-    "company" : "Dauntless Dynasty Marketing",
-    "duration": "2 months",
-    "position": "Sales Agent"
+    "Me": {
+        "name": "Muhammad" 
+    },
+    "resume" {
+    "work" : [{
+        "company" : "Islamic Relief",
+        "duration":"3 Days",
+        "position": "Administrator"
+    },
+    {
+        "company" : "Dauntless Dynasty Marketing",
+        "duration": "2 months",
+        "position": "Sales Agent"
+    }
+    ],
+    "education" : [{
+        "institution": "College of Cape-Town",
+        "course": "NCV IT",
+        "duration": "3 Years"
+    },
+    {
+        "institution": "IPSA",
+        "course": "Islamic Studies",
+        "duration": "1 Year"
+    }
+    ]   
 }
-],
-"education" : [{
-    "institution": "College of Cape-Town",
-    "course": "NCV IT",
-    "duration": "3 Years"
-},
-{
-    "institution": "IPSA",
-    "course": "Islamic Studies",
-    "duration": "1 Year"
-}
-],   
 }
