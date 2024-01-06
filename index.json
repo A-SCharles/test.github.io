@@ -2,8 +2,9 @@
     "Me": {
         "name": "Muhammad" 
     },
-    "resume" : {
-    "work" : [{
+    "resume" : [{
+    "work" : [
+    {
         "company" : "Islamic Relief",
         "duration":"3 Days",
         "position": "Administrator"
@@ -14,7 +15,8 @@
         "position": "Sales Agent"
     }
     ],
-    "education" : [{
+    "education" : [
+        {
         "institution": "College of Cape-Town",
         "course": "NCV IT",
         "duration": "3 Years"
@@ -24,5 +26,5 @@
         "course": "Islamic Studies",
         "duration": "1 Year"
     }]   
-}
+}]
 }
