@@ -2,7 +2,7 @@
     "Me": {
         "name": "Muhammad" 
     },
-    "resume" :{
+    "resume" : {
     "work" : [{
         "company" : "Islamic Relief",
         "duration":"3 Days",
@@ -23,7 +23,6 @@
         "institution": "IPSA",
         "course": "Islamic Studies",
         "duration": "1 Year"
-    }
-    ]   
+    }]   
 }
 }
