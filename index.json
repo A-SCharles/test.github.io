@@ -16,12 +16,12 @@
 ],
 "education" : [{
     "institution": "College of Cape-Town",
-    "course": "NCV IT"
+    "course": "NCV IT",
     "duration": "3 Years"
 },
 {
     "institution": "IPSA",
-    "course": "Islamic Studies"
+    "course": "Islamic Studies",
     "duration": "1 Year"
 }
 ],   
